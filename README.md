@@ -1,16 +1,26 @@
+##Gigasecond Lab
+
 You are to return the date, a gigasecond ahead from the date passed as an argument into the function.
 You should return the date with its time at 00:00:00 (hh:mm:ss)
 
-## Instructions
+### How to Run this Lab
 
-You should get familiar with *Date* javascript class, its formats, and unix date integer.
++ Clone the repository
++ Open **index.html** in your browser to see the currently failing test specs you are to pass
++ Open the repository in your favorite text editor to explore the different files
++ Open **js\gigasecond.js** and write the function(s) or lines of code to pass the tests
++ You could refresh **index.html** in your browser intermittently to see the status of test specs.
 
-Remember that passing code is just the first step. The goal is to work
-towards a solution that is as readable and expressive as you can make
+
+###Notes
+
++ You should get familiar with *Date* javascript class, its formats, and unix date integer.
+
++ Prior understanding of Javascript classes, returning, and conditional statements will be required to complete this exercise.
+
++ Remember that passing code is just the first step. The goal is to work towards a solution that is as readable and expressive as you can make
 it.
 
-Please make your solution as general as possible. Good code doesn't just
-pass the test suite, it works with any input that fits the
-specification.
++ Please make your solution as general as possible. Good code doesn't just pass the test suite, it works with any input that fits the specification.
 
 Have fun!
